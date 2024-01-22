@@ -1,10 +1,10 @@
 
 #### INTRODUCTION TO TEXT MINING AND NATURAL LANGUAGE PROCESSING 
 
-#######################
+
 #### END-TO-END TEXT CLASSIFICATION MODEL 
 
-#######################
+
 #### SENTIMENT ANALYSIS AND SENTIMENT MODELING FOR AMAZON REVIEWS
 
 
@@ -42,7 +42,7 @@
 
 -TF-IDF
 
-5-Sentiment Modeling
+### 5-Sentiment Modeling
 
 -Logistic Regression
 
